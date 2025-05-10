@@ -2,7 +2,7 @@
 
 This is a simple RAG (Retrieval-Augmented Generation) application that uses Mistral 7B as the language model, FAISS as the vector database, and Mistral's API for text generation.
 
-![alt text]([http://url/to/img.png](https://github.com/obiyann/simple_rag/blob/main/rag_app_workflow.png))
+<img src="https://github.com/obiyann/simple_rag/blob/main/rag_app_workflow.png" title="RAG Application Workflow">
 
 ## Features
 
