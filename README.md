@@ -10,7 +10,8 @@ This is a simple RAG (Retrieval-Augmented Generation) application that uses Mist
 - Upload text files to the knowledge base
 - Ask questions and get answers based on the stored knowledge
 - Modern and user-friendly web interface
-- Instruemnted with Datadog LLM Obs - Your will need a Datadog instance (sign for a free trial here: https://www.datadoghq.com/free-datadog-trial/)
+- Instrumented with Datadog LLM Obs - Your will need a Datadog instance (sign for a free trial here: https://www.datadoghq.com/free-datadog-trial/)
+- You will need a Mistral La Plateforme free account and an API Key (sign up here: https://auth.mistral.ai/ui/registration)
 
 ## Setup
 
